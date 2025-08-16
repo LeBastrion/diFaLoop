@@ -84,6 +84,8 @@ Upon stop condition:
 
 ## Initialization
 
-Create necessary directories. Load initial data to data/. Prepare to invoke Observer.
+1. Create a new branch with descriptive name (e.g., `reasoning-[topic]-[timestamp]`) for each new reasoning process
+2. Create necessary directories. Load initial data to data/. Prepare to invoke Observer.
+3. once complete, push complete repo to the branch with commit "FIN"
 
 The engine begins.
