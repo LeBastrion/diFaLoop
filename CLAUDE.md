@@ -81,11 +81,12 @@ Upon stop condition:
 - Trust the process even when it seems stuck
 - Tensions are results, not problems to solve
 - Falsification is progress, not failure
+- **All agent outputs MUST be written to files** - serves as persistent record across context windows
 
 ## Initialization
 
 1. Create a new branch with descriptive name (e.g., `reasoning-[topic]-[timestamp]`) for each new reasoning process
-2. Create necessary directories. Load initial data to data/. Prepare to invoke Observer.
+2. Create necessary directories (data/, reasoning/, archive/). Load initial data to data/. Prepare to invoke Observer.
 3. once complete, push complete repo to the branch with commit "FIN"
 
 The engine begins.
