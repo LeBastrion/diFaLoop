@@ -2,7 +2,7 @@
 
 ## 🎯 THE QUESTION
 
-**Why is this mean reversion trading bot losing $5/day despite a 70% win rate, and what specific parameter values would make it profitable given the current BONK market conditions shown in the 12-hour dataset below?**
+**What trading bot architecture would be able to predictably accumulate capital trading the BONK/USDC pair given the market conditions shown in the 12-hour dataset below?**
 
 ## 📖 CONTEXT & BACKGROUND
 
