@@ -1,0 +1,1 @@
+The challenge: Design the visual language and cinematic presentation of a 10-week life simulation that must simultaneously seduce characters into playing, reveal hidden scoring mechanisms, and embody the film's critique of algorithmic commodification—all while remaining viscerally engaging on screen.
